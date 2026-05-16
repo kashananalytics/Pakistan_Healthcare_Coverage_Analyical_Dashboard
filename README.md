@@ -10,7 +10,7 @@ Turned a raw Excel file into a full Healthcare Analytics Dashboard mapping Pakis
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](dashboard.png)![Uploading WhatsApp Image 2026-05-16 at 11.17.01 PM.jpeg…]()
+![Dashboard Preview](dashboard.png)
 
 
 ---
