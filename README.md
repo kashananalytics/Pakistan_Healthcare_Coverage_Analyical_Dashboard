@@ -26,8 +26,8 @@ This project transforms a multi-sheet Excel dataset into a fully interactive **P
 |---|---|---|
 | Hospital Details | 8,652 | Name, City, Area, Address, Doctors, Contact |
 | Hospital by Area | 2,190 | City, Area, Count, Density |
-| Hospital by City | 127 | City, Total Hospitals |
-| Top 5 Cities | 5 | City, Rank, Count |
+| Hospital by City | 126 | City, Total Hospitals |
+| Top 4 Cities | 4 | City, Rank, Count |
 
 ---
 
