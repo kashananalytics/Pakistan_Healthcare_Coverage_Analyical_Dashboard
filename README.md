@@ -1,3 +1,4 @@
+<img width="1080" height="615" alt="WhatsApp Image 2026-05-17 at 10 15 21 PM" src="https://github.com/user-attachments/assets/62cc1d1a-bc06-4c4f-855f-c817d3a99c7d" />
 # Pakistan Healthcare Coverage Analytical Dashboard | Power BI 📊
 <br>
 
