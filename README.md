@@ -52,20 +52,13 @@ This project transforms a multi-sheet Excel dataset into a fully interactive **P
 
 ## 📊 Visuals Built
 
-**1. Bar Chart — Top City by Hospital**
-Ranks Lahore, Karachi, Islamabad, Rawalpindi, and Multan by total hospital count. Lahore leads with 4,000+.
-
-**2. Donut Chart — Top 4 City Share**
-Breaks down the % share of hospitals across Lahore, Karachi, Islamabad, and Rawalpindi.
-
-**3. Treemap — Coverage by Area**
-Shows locality-level hospital density. Areas like Ghanta Ghar, Gull Bagh Colony, and Township Sector C1 are clearly visible.
-
-**4. Bing Map — Hospital Location Map**
-Plots hospital clusters geographically. Filtered to show pin density around Multan, Burewala, and Muzaffargarh on the demo view.
-
-**5. City Filter Tabs (Slicer)**
-One-click switching between Multan, Islamabad, Karachi, Lahore, and Rawalpindi — all visuals update instantly.
+✅ 8 KPI cards — Total Hospitals (9K), Total Doctors (17K), Cities Covered (126), Area Covered (2K), Top City (2K), Hospital Density (6.56), Average Doctor (2.00), Average City (68.00)
+✅ City search bar — type any city name and every single visual updates instantly
+✅ City filter tabs — one-click switching between Multan, Islamabad, Karachi, Lahore and Rawalpindi
+✅ Bar chart — top 5 cities ranked by hospital count
+✅ Donut chart — top 5 area wise distribution across Zarnar Shah, Zia Shah, Zikariya, Zikriya Town and Zilla Bha
+✅ Interactive Bing Map — hospital pins plotted across Multan, Burewala, Muzaffargarh, Dunyapur, Lodhran and Jalalpur Pirwala
+✅ Treemap — locality level breakdown showing Attock Cantt, Ghanta Ghar, Chak No 435 EB, Goat Chowk, Sargodha, Gull Bagh Colony, Township Sector C1, Faisalabad, Mardan and Lahore
 
 ---
 
