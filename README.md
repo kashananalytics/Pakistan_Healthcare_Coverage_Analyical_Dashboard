@@ -116,3 +116,7 @@ Avg City = DIVIDE([Total Hospitals], DISTINCTCOUNT('Hospital Details'[CITY]))
 ---
 
 *Built as a portfolio project. Feel free to fork, adapt, or use the DAX measures for your own healthcare or public-sector dashboards.*
+<br>
+## Author
+Kashan Ahmed  
+BS Statistics Graduate | Power BI & Data Analytics.
