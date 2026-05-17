@@ -53,6 +53,7 @@ This project transforms a multi-sheet Excel dataset into a fully interactive **P
 ## 📊 Visuals Built
 
 ✅ 8 KPI cards — Total Hospitals (9K), Total Doctors (17K), Cities Covered (126), Area Covered (2K), Top City (2K), Hospital Density (6.56), Average Doctor (2.00), Average City (68.00)
+<br>
 ✅ City search bar — type any city name and every single visual updates instantly
 ✅ City filter tabs — one-click switching between Multan, Islamabad, Karachi, Lahore and Rawalpindi
 ✅ Bar chart — top 5 cities ranked by hospital count
