@@ -53,12 +53,31 @@ This project transforms a multi-sheet Excel dataset into a fully interactive **P
 ## 📊 Visuals Built
 
 ✅ 8 KPI cards — Total Hospitals (9K), Total Doctors (17K), Cities Covered (126), Area Covered (2K), Top City (2K), Hospital Density (6.56), Average Doctor (2.00), Average City (68.00)
+
 <br>
+
 ✅ City search bar — type any city name and every single visual updates instantly
+
+<br>
+
 ✅ City filter tabs — one-click switching between Multan, Islamabad, Karachi, Lahore and Rawalpindi
+
+<br>
+
+
 ✅ Bar chart — top 5 cities ranked by hospital count
+
+<br>
+
+
 ✅ Donut chart — top 5 area wise distribution across Zarnar Shah, Zia Shah, Zikariya, Zikriya Town and Zilla Bha
+
+<br>
+
 ✅ Interactive Bing Map — hospital pins plotted across Multan, Burewala, Muzaffargarh, Dunyapur, Lodhran and Jalalpur Pirwala
+
+<br>
+
 ✅ Treemap — locality level breakdown showing Attock Cantt, Ghanta Ghar, Chak No 435 EB, Goat Chowk, Sargodha, Gull Bagh Colony, Township Sector C1, Faisalabad, Mardan and Lahore
 
 ---
