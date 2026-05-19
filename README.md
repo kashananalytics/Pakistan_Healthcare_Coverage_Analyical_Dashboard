@@ -2,7 +2,7 @@
 Pakistan Healthcare Coverage Analytical Dashboard | Power BI 📊
 <br>
 
-Pakistan_Healthcare_Coverage_Analyical_Dashboard
+Pakistan Healthcare Coverage Analyical Dashboard
 Turned a raw Excel file into a full Healthcare Analytics Dashboard mapping Pakistan's 9K Hospitals, 17K Doctors, and Coverage gaps across 126 cities.
 # 🏥 Pakistan Healthcare Coverage Analytical Dashboard
 
